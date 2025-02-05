@@ -2,8 +2,7 @@
 """
 Serverless Data Analysis with Dataflow: Side Inputs (Python)
 
-This script demonstrates how to build a serverless data analysis pipeline using
-Apache Beam and Google Cloud Dataflow. The pipeline performs the following tasks:
+
 
     1. Reads Java file contents from a BigQuery table.
        - The BigQuery table (`cloud-training-demos.github_repos.contents_java`)
